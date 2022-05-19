@@ -247,7 +247,7 @@ body {
 
 /*Card Slider Design Starts*/
 #carouselExampleControls{
-  background-image:url(h1.jpg);
+  background-image:url(Images/h1.jpg);
   height:22vw;
 }
 
@@ -320,7 +320,7 @@ body {
 
 @media screen and (max-width:768px) {
   #carouselExampleControls{
-    background-image:url(h1.jpg);
+    background-image:url(Images/h1.jpg);
     height:55vw;
   } 
   .card{
